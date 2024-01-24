@@ -1,0 +1,48 @@
+*{
+    font-family: 'Poppins', sans-serif;
+  }
+  .h-font{
+    font-family: 'Merienda', cursive;
+  }
+  /* Chrome, Safari, Edge, Opera */
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+  }
+  
+/* Firefox */
+  input[type=number] 
+  {
+  -moz-appearance: textfield;
+  }
+  .custom-bg{
+    background-color: #2ec1ac;
+  }
+  .custom-bg:hover{
+    background-color: #279e8c;
+  }
+  .availability-form{
+    margin-top: -90px;
+    z-index: 2;
+    position: relative;
+  }
+
+  @media screen and (max-width: 575px) {
+    .availability-form{
+    margin-top: 0;
+    }
+  }
+  #a{
+    max-height: 50%;
+  }
+  .loc_us{
+    text-align:center;
+  }
+  .justify{
+    text-align: justify;
+  }
+  .formab{
+    margin-top: 140px;
+    display: flex;
+  }
