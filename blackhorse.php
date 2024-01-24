@@ -15,7 +15,6 @@
     <?php
 require('inc/header.php');
 ?>
-abcd
 <body>
 <center><h1 class="header h-font mt-4">BlackHorse</h1></center>
 <div class="container mt-5">
