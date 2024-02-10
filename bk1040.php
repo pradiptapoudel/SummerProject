@@ -24,14 +24,14 @@
             <div class="single-pro-image">
                 <br>
                 <div class="card border-0 shadow mb-2" style="width: 29rem; height: 29rem; margin: auto;">
-                    <img src="images/shoes/bk1.jpeg" width="100%" id="MainImg">
+                    <img src="images/shoes/bk2.jpeg" width="100%" id="MainImg">
                 </div>
             </div>
             <div class="single-pro-details">
                 <h3 class="h-font mt--4">BlackHorse</h3>  
                 <br>
-                <h2>BK 1030</h2>
-                <h4>Rs. 2700</h4>
+                <h2>BK 1040</h2>
+                <h4>Rs. 3000</h4>
                 <h5>Select your Size</h5>
                 <select>
                     <option>39</option>
@@ -39,12 +39,18 @@
                     <option>41</option>
                     <option>42</option>
                 </select>
-                <button class="normal">Buy Now</button>
-                <button class="normal">Add to Cart</button>
+                <form method=post action=cart/index.php>
+                    <button class="add">Add to Cart</button>
+                </form>
+                <br>
+                <button class="normal">Buy Now
+
+                </button>
                 <h4 class="h-font">Product Details</h4>
                 <span><p class="justify">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore quibusdam cum modi? Alias, iure. Odit iusto officiis aperiam obcaecati necessitatibus. Nisi ratione inventore aliquid, beatae tempore harum itaque dignissimos repellendus.</p></span>
             </div>
         </section>
+
 
     </div>
     <?php

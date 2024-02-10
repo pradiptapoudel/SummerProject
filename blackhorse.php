@@ -50,7 +50,8 @@ require('inc/header.php');
         </div>
         
 
-        <div class="card border-0 shadow mb-2" style="width: 18rem; max-width:350px; margin: auto;">
+      <div class="card border-0 shadow mb-2" style="width: 18rem; max-width:350px; margin: auto;">
+        <a href="http://localhost/summerproject/bk1050.php" class="text-dark text-decoration-none">
           <img src="images/shoes/bk3.jpeg" class="card-img-top">
           <div class="card-body">
             <h5 class="card-title mb-2"><center>BK1050</center></h5>
@@ -61,7 +62,8 @@ require('inc/header.php');
             </center>
             </div>
           </div>
-        </div>
+        </a>
+      </div>
       
       <div class="card border-0 shadow mb-2" style="width: 18rem; max-width:350px; margin: auto;">
         <img src="images/shoes/ca4.jpeg" class="card-img-top">

@@ -13,9 +13,8 @@
 </head>
 <body class= bg-light>
 <?php
-require('inc/header.php');
+require('inc/header_login.php');
 ?>
-
 
 <!-- Carousel -->
 <div class="container-fluid">
@@ -95,9 +94,9 @@ require('inc/header.php');
           </div>
     </div>
   </div>
-      <?php
-        require('inc/footer.php');
-      ?>
+<?php
+require('inc/footer.php');
+?>
 
             <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 

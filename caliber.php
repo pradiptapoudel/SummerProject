@@ -32,7 +32,7 @@ require('inc/header.php');
                 </div>
               </div>
             </div>
-           
+        
         <div class="card border-0 shadow mb-2" style="width: 18rem; max-width:350px; margin: auto;">
             <img src="images/shoes/ca2.jpeg" class="card-img-top">
             <div class="card-body">
